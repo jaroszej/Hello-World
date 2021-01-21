@@ -1,4 +1,4 @@
-# Hello-World-Cpp-JNI
+# Hello-World-Cpp-JNI Southern New Hampshire University Assignment
  integrates C++ with Java through the JNI
 
 Embedding languages in other languages can allow the strengths of each language work with each other in certain projects. This school assignment allowed me to learn some of the pros and cons of utilizing C++, Java, and Python for various use cases.
